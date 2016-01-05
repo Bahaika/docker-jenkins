@@ -1,6 +1,6 @@
 ### Docker-Jenkins
 
-![Jenkins logo](https://raw.githubusercontent.com/Bahaika/docker-jenkins/master/jenkins-logo.png)
+![Jenkins logo](https://raw.githubusercontent.com/HipsterWhale/docker-jenkins/master/jenkins-logo.png)
 
 #### What is it ?
 
